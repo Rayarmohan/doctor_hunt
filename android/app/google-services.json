@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365762386535",
+    "project_id": "doctor-hunt-9989c",
+    "storage_bucket": "doctor-hunt-9989c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365762386535:android:8ea289dc9a71f62a9452c2",
+        "android_client_info": {
+          "package_name": "com.example.doctor_hunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365762386535-6tafhc951krh2oqav87m36oi4i6hb438.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeGWnzHZM_xgMVQtL2GBe5agqAF-3etY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365762386535-6tafhc951krh2oqav87m36oi4i6hb438.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
